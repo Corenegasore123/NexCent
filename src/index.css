@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    overflow-x: hidden;
+}
+ion-icon{
+    font-size: 40px;
+}
